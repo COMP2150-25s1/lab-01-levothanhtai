@@ -1,0 +1,39 @@
+Does the player know where they are going?
+- Yes, they do
+
+Are there any "leaps of faith" or other times the player can't see where they are jumping to?
+- Player just try to jump in this level have many "leaps of faith" but just try
+
+Are all the jumps or other necessary movements reasonably possible? If not, why?
+- jumps or other necessary movements possible and everything in there to be have some reason
+
+Internal QA:
+Are there jumps that can't be made?
+- Yes, but it have some allusion for that
+
+Are there any opportunties for the player to get stuck and unable to progress?
+- no, it not player just fail to jump
+
+
+Can the player always see what they need to see? Does the camera ever "cut off" important information?
+- Yes, player cannot see something but I fix it and some of that was allusion
+
+Are there any other mechanical issues with your level that prevent the player from progressing, or cause the system to act in unexpected ways?
+- Provisional nothing
+
+Playtest 1: Experience Goals
+
+Are you trying to make a challenging level? If so, what kind of challenge? Is it about quick reflexes and movement, or slow and deliberate path-choosing?
+- Yes, challenge I want is slow deliberate path-choosing?
+
+Do you instead want to make a more "chill" and exploratory experience, with more spaces for the player to take their time and enjoy the vibe?
+- Yes, I do
+
+
+Quantic Foundary's Gamer Motivation Model: Action, creativity
+
+
+3 question to ask players:
+- Which sections made you not truth to jump?
+- Which sections made you feel so easy to recognize?
+- Do you feel satisfied when complete this level?
